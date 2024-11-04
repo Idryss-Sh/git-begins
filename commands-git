@@ -1,0 +1,7 @@
+git clone https://github.com/Idryss-Sh/git-begins.git
+
+git add .
+git commit -m "Message de commit"
+git push origin main
+
+git pull origin main
