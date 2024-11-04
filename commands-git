@@ -5,3 +5,6 @@ git commit -m "Message de commit"
 git push origin main
 
 git pull origin main
+
+git branch nom-de-la-branche 
+git checkout nom-de-la-branche
